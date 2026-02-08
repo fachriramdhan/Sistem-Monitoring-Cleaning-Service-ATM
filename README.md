@@ -1,11 +1,3 @@
-# 📘 README.md LENGKAP UNTUK GITHUB
-
-Berikut README.md yang sangat lengkap dan profesional untuk GitHub:
-
----
-
-**Buat file: `README.md`** di root project
-
 ```markdown
 # 🏧 Sistem Monitoring Cleaning Service ATM
 
