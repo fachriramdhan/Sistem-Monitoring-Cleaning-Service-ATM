@@ -11,9 +11,7 @@
 **Sistem manajemen dan monitoring untuk cleaning service ATM dengan fitur absensi, laporan pembersihan, dan manajemen inventory.**
 
 [Demo](#-demo) • [Fitur](#-fitur-utama) • [Instalasi](#-instalasi) • [Dokumentasi](#-dokumentasi) • [Screenshots](#-screenshots)
-
 </div>
----
 
 ## 📑 Daftar Isi
 
