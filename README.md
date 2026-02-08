@@ -14,6 +14,7 @@
 [Demo](#-demo) • [Fitur](#-fitur-utama) • [Instalasi](#-instalasi) • [Dokumentasi](#-dokumentasi) • [Screenshots](#-screenshots)
 
 </div>
+```
 
 ---
 
