@@ -495,30 +495,50 @@ erDiagram
 
 ---
 
-## 📸 Screenshots
+## 📸 Interface Preview
+
+Sistem ini dirancang dengan antarmuka yang responsif untuk tiga level pengguna: **Admin**, **Koordinator**, dan **Cleaning Service (CS)**.
 
 <div align="center">
-🔐 Authentication & Main Access
-Login Page	Admin Dashboard	CS Dashboard
-		
-Multi-role Auth System	Real-time Statistics	Quick Action & Alerts
-🛠️ Management & Monitoring
-Kelola Cleaning Service	Monitoring Laporan	Detail Laporan (Zoom)
-		
-CRUD & Area Assignment	Grid View & Live Filter	Evidence Modal View
-📝 Operational Forms
-Form Absensi (Selfie)	Form Laporan Kerja	Permintaan Inventory
-		
-Geolocation & Preview	Before / After / Location	Inventory Workflow
-📦 Inventory & Reporting
-Kelola Inventory	Print Laporan Harian
-	
-Stock & Low Stock Alert	Export Ready Format
+
+### 🔐 Gateway & Overview
+| Login Page | Admin Dashboard | CS Dashboard |
+| :---: | :---: | :---: |
+| ![Login](docs/screenshots/login.png) | ![Admin](docs/screenshots/admin-dashboard.png) | ![CS Dash](docs/screenshots/cs-dashboard.png) |
+| *Multi-role Auth System* | *Real-time Statistics* | *Quick Action & Alerts* |
+
+<br>
+
+### 👥 User & Task Management
+| Kelola Cleaning Service | Monitoring Laporan | Detail Laporan (Zoom) |
+| :---: | :---: | :---: |
+| ![Kelola CS](docs/screenshots/kelola-cs.png) | ![Monitoring](docs/screenshots/monitoring-laporan.png) | ![Detail](docs/screenshots/detail-laporan.png) |
+| *CRUD & Area Assignment* | *Grid View & Live Filter* | *Evidence Modal View* |
+
+<br>
+
+### ✍️ Daily Operational Forms
+| Form Absensi (Selfie) | Form Laporan Kerja | Permintaan Inventory |
+| :---: | :---: | :---: |
+| ![Absensi](docs/screenshots/form-absensi.png) | ![Laporan](docs/screenshots/form-laporan.png) | ![Permintaan](docs/screenshots/permintaan.png) |
+| *Geolocation & Preview* | *Before / After / Location* | *Inventory Workflow* |
+
+<br>
+
+### 📊 Logistics & Output
+| Kelola Inventory | Print Laporan Harian |
+| :---: | :---: |
+| ![Inventory](docs/screenshots/inventory.png) | ![Print](docs/screenshots/print-laporan.png) |
+| *Stock & Low Stock Alert* | *Export Ready Format* |
+
 </div>
-[!TIP]
-Koordinator Role: Menggunakan tampilan yang serupa dengan Monitoring Admin namun terbatas pada area tugas masing-masing untuk menjaga integritas data.
 
+---
 
+> [!IMPORTANT]
+> **Catatan Implementasi**: 
+> * Semua fitur monitoring di sisi Admin juga tersedia bagi **Koordinator** dengan filter area yang relevan.
+> * Pastikan file gambar telah tersedia di direktori `docs/screenshots/` agar muncul di halaman GitHub/GitLab.
 
 > **Note**: Tambahkan screenshot asli di folder `docs/screenshots/`
 
