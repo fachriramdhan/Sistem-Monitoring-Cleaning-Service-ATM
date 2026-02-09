@@ -497,49 +497,28 @@ erDiagram
 
 ## 📸 Screenshots
 
-### 1. Login Page
-![Login Page](docs/screenshots/login.png)
-*Multi-role authentication dengan email & password*
+<div align="center">
+🔐 Authentication & Main Access
+Login Page	Admin Dashboard	CS Dashboard
+		
+Multi-role Auth System	Real-time Statistics	Quick Action & Alerts
+🛠️ Management & Monitoring
+Kelola Cleaning Service	Monitoring Laporan	Detail Laporan (Zoom)
+		
+CRUD & Area Assignment	Grid View & Live Filter	Evidence Modal View
+📝 Operational Forms
+Form Absensi (Selfie)	Form Laporan Kerja	Permintaan Inventory
+		
+Geolocation & Preview	Before / After / Location	Inventory Workflow
+📦 Inventory & Reporting
+Kelola Inventory	Print Laporan Harian
+	
+Stock & Low Stock Alert	Export Ready Format
+</div>
+[!TIP]
+Koordinator Role: Menggunakan tampilan yang serupa dengan Monitoring Admin namun terbatas pada area tugas masing-masing untuk menjaga integritas data.
 
-### 2. Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
-*Dashboard dengan statistik real-time dan quick actions*
 
-### 3. Kelola CS
-![Kelola CS](docs/screenshots/kelola-cs.png)
-*CRUD cleaning service dengan foto profil dan area assignment*
-
-### 4. CS Dashboard
-![CS Dashboard](docs/screenshots/cs-dashboard.png)
-*Dashboard CS dengan alert absensi dan quick actions*
-
-### 5. Form Absensi
-![Form Absensi](docs/screenshots/form-absensi.png)
-*Upload foto selfie dengan preview dan pilih area tugas*
-
-### 6. Form Laporan ATM
-![Form Laporan](docs/screenshots/form-laporan.png)
-*Upload 3 foto (before, after, location) dengan preview*
-
-### 7. Monitoring Laporan
-![Monitoring](docs/screenshots/monitoring-laporan.png)
-*Grid view laporan dengan preview foto dan filter*
-
-### 8. Detail Laporan
-![Detail Laporan](docs/screenshots/detail-laporan.png)
-*Detail lengkap dengan 3 foto full size dan modal zoom*
-
-### 9. Kelola Inventory
-![Inventory](docs/screenshots/inventory.png)
-*Manajemen inventory dengan notifikasi stok rendah*
-
-### 10. Permintaan Inventory
-![Permintaan](docs/screenshots/permintaan.png)
-*Workflow permintaan dengan status approval*
-
-### 11. Print Laporan Harian
-![Print Laporan](docs/screenshots/print-laporan.png)
-*Format print-ready untuk laporan harian*
 
 > **Note**: Tambahkan screenshot asli di folder `docs/screenshots/`
 
